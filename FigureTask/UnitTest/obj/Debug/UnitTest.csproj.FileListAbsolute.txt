@@ -1,0 +1,9 @@
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\bin\Debug\FigureLibrary.dll
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\bin\Debug\FigureLibrary.pdb
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Salnikov1989\Desktop\FigureTask\UnitTest\obj\Debug\UnitTest.pdb

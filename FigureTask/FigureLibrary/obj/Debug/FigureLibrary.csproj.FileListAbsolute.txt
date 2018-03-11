@@ -1,0 +1,10 @@
+C:\Users\Salnikov1989\Desktop\GitProject\3programmer\Client\FigureLibrary\bin\Debug\FigureLibrary.dll
+C:\Users\Salnikov1989\Desktop\GitProject\3programmer\Client\FigureLibrary\bin\Debug\FigureLibrary.pdb
+C:\Users\Salnikov1989\Desktop\GitProject\3programmer\Client\FigureLibrary\obj\Debug\FigureLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Salnikov1989\Desktop\GitProject\3programmer\Client\FigureLibrary\obj\Debug\FigureLibrary.dll
+C:\Users\Salnikov1989\Desktop\GitProject\3programmer\Client\FigureLibrary\obj\Debug\FigureLibrary.pdb
+C:\Users\Salnikov1989\Desktop\FigureTask\FigureLibrary\bin\Debug\FigureLibrary.dll
+C:\Users\Salnikov1989\Desktop\FigureTask\FigureLibrary\bin\Debug\FigureLibrary.pdb
+C:\Users\Salnikov1989\Desktop\FigureTask\FigureLibrary\obj\Debug\FigureLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Salnikov1989\Desktop\FigureTask\FigureLibrary\obj\Debug\FigureLibrary.dll
+C:\Users\Salnikov1989\Desktop\FigureTask\FigureLibrary\obj\Debug\FigureLibrary.pdb
